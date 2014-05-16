@@ -79,7 +79,7 @@ process.source = cms.Source("PoolSource",
 
 from GEMCode.GEMValidation.InputFileHelpers import useInputDir
 from GEMCode.SimMuL1.GEMCSCTriggerSamplesLib import eosfiles
-suffix = '_pt2-50_PU140_dphi0_preTrig33_NoLQCLCTwithoutGEM_ALCTGEM'
+suffix = '_pt2-50_NEW'
 process = useInputDir(process, eosfiles[suffix], True)
 
 process.maxEvents = cms.untracked.PSet(
@@ -87,7 +87,7 @@ process.maxEvents = cms.untracked.PSet(
 )
 
 ## output
-outputFileName = 'hp_' + sample + "_" + cmssw + "_" + globalTag  + '_w%d'%(w) + suffix + '_eff.root'
+outputFileName = "NEW_GEM_" + globalTag  + '_w%d'%(w) + suffix + '_eff.root'
 
 process.TFileService = cms.Service("TFileService",
     fileName = cms.string(outputFileName)

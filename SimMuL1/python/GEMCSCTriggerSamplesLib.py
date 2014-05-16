@@ -148,3 +148,18 @@ eosfiles['_pt2-50_SLHC11_2023Muon_PU400'] = ['/eos/uscms/store/user/lpcgem/dildi
 eosfiles['_Nu_SLHC12_2023Muon_PU140'] = ['/eos/uscms/store/user/lpcgem/jlee/SingleNu_cfi_GEN_SIM/SingleNu_SLHC12_2023Muon_DIGI_PU140/3d13cbaabc944c94dfc4b7e14635daa0/']
 eosfiles['_Nu_SLHC12_2023Muon_PU140_geonmo'] = ['/eos/uscms/store/user/lpcgem/geonmo/SingleNu_cfi_GEN_SIM/SingleNu_SLHC12_2023Muon_DIGI_PU140v2/6b50ed2a008d8a47a360507d169521e1/']
 eosfiles['_Nu_SLHC12_2023Muon_PU400'] = ['/eos/uscms/store/user/lpcgem/aysen/SingleNu_cfi_GEN_SIM/SingleNu_SLHC11_2023Muon_DIGI_PU400_v3/6869af1b28a0650484eca6fece69b429/']
+
+
+
+eosfiles['_pt2-50_NEW'] = ['/eos/uscms/store/user/lpcgem/tahuang/SingleMuPt2-50_1M_SLHC11_2023Muon/SLHC12_patch2_2023_digi_PU140_200k/f6a82fd48e26eadaa3739932835fe094/']
+
+
+
+
+eosfiles['NEW_CSC4_All'] = ['/eos/uscms/store/user/jdimasva/Corrected/All/']
+eosfiles['NEW_CSC4_Quality'] = ['/eos/uscms/store/user/jdimasva/Corrected/Quality/']
+eosfiles['NEW_CSC4_Quality_FT'] = ['/eos/uscms/store/user/jdimasva/Corrected/Quality_FT/']
+eosfiles['NEW_CSC4_SLHC'] = ['/eos/uscms/store/user/jdimasva/Corrected/SLHC/']
+
+
+#eosfiles['NEW_GEM''] = ['/eos/uscms/store/user/jdimasva/GEM/']
