@@ -1,0 +1,107 @@
+000 (321631.003.000) 05/12 11:54:49 Job submitted from host: <131.225.190.54:60769>
+...
+001 (321631.003.000) 05/12 11:55:15 Job executing on host: <131.225.207.77:59557>
+...
+006 (321631.003.000) 05/12 11:55:24 Image size of job updated: 96452
+	3  -  MemoryUsage of job (MB)
+	2380  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 11:56:25 Image size of job updated: 904896
+	479  -  MemoryUsage of job (MB)
+	490340  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 11:57:26 Image size of job updated: 925124
+	494  -  MemoryUsage of job (MB)
+	505476  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 11:58:27 Image size of job updated: 926148
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 11:59:28 Image size of job updated: 929988
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:00:29 Image size of job updated: 937160
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:01:29 Image size of job updated: 939720
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:02:29 Image size of job updated: 942792
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:03:29 Image size of job updated: 970188
+	500  -  MemoryUsage of job (MB)
+	511056  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:04:29 Image size of job updated: 970188
+	503  -  MemoryUsage of job (MB)
+	514072  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:05:29 Image size of job updated: 978128
+	503  -  MemoryUsage of job (MB)
+	514072  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:08:31 Image size of job updated: 1001928
+	503  -  MemoryUsage of job (MB)
+	514072  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:10:33 Image size of job updated: 1001928
+	503  -  MemoryUsage of job (MB)
+	514804  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:11:34 Image size of job updated: 1001928
+	504  -  MemoryUsage of job (MB)
+	515788  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:13:34 Image size of job updated: 1001928
+	505  -  MemoryUsage of job (MB)
+	516544  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:15:34 Image size of job updated: 1008356
+	505  -  MemoryUsage of job (MB)
+	516544  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:18:35 Image size of job updated: 1011172
+	506  -  MemoryUsage of job (MB)
+	517956  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:21:38 Image size of job updated: 1011172
+	507  -  MemoryUsage of job (MB)
+	519068  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:22:38 Image size of job updated: 1011172
+	508  -  MemoryUsage of job (MB)
+	519340  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:23:38 Image size of job updated: 1011172
+	510  -  MemoryUsage of job (MB)
+	521388  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:24:38 Image size of job updated: 1011172
+	510  -  MemoryUsage of job (MB)
+	522076  -  ResidentSetSize of job (KB)
+...
+006 (321631.003.000) 05/12 12:26:38 Image size of job updated: 1011924
+	510  -  MemoryUsage of job (MB)
+	522076  -  ResidentSetSize of job (KB)
+...
+005 (321631.003.000) 05/12 12:27:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:30:14, Sys 0 00:00:08  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:30:14, Sys 0 00:00:08  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	305217  -  Run Bytes Sent By Job
+	36774872  -  Run Bytes Received By Job
+	305217  -  Total Bytes Sent By Job
+	36774872  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :   480972   480972          
+	   Memory (MB)          :      510      510          
+...
