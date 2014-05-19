@@ -3,7 +3,7 @@
 ## 2: 2019WithGem
 ## 3: 2023Muon
 
-scenario = 2
+scenario =1
 
 ## This configuration runs the DIGI+L1Emulator step
 import os
@@ -37,7 +37,7 @@ if scenario is 1 or scenario is 2:
 elif scenario is 3:
     process.GlobalTag = GlobalTag(process.GlobalTag, 'auto:upgradePLS3', '')    
 
-process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(100) )
+process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(100000) )
 
 process.options = cms.untracked.PSet( wantSummary = cms.untracked.bool(True) )
 
@@ -58,8 +58,8 @@ process.source = cms.Source("PoolSource",
 ## input
 from GEMCode.SimMuL1.GEMCSCTriggerSamplesLib import eosfiles
 from GEMCode.GEMValidation.InputFileHelpers import useInputDir
-dataset = '_Nu_SLHC12_2023Muon_PU140'
-dataset = "_pt2-50_SLHC11_2023Muon_PU140"
+#dataset = '_Nu_SLHC12_2023Muon_PU140'
+dataset = "_pt2-50_NEW"
 process = useInputDir(process, eosfiles[dataset], True)
 
 

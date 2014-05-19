@@ -8,7 +8,7 @@ process = cms.Process('GEMCSCTRGANA')
 cmssw = os.getenv( "CMSSW_VERSION" )
 
 ## steering
-events = 100000
+events = -1
 sample='dimu'
 globalTag = 'upgrade2019'
 #sample='minbias'

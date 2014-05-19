@@ -162,4 +162,7 @@ eosfiles['NEW_CSC4_Quality_FT'] = ['/eos/uscms/store/user/jdimasva/Corrected/Qua
 eosfiles['NEW_CSC4_SLHC'] = ['/eos/uscms/store/user/jdimasva/Corrected/SLHC/']
 
 
-#eosfiles['NEW_GEM''] = ['/eos/uscms/store/user/jdimasva/GEM/']
+eosfiles['NEW_GEM'] = ['/eos/uscms/store/user/jdimasva/NEW_GEM/']
+eosfiles['NEW_MMM'] = ['/eos/uscms/store/user/jdimasva/NEW_MMM/']
+eosfiles['NEW_CSC'] = ['/eos/uscms/store/user/jdimasva/NEW_CSC4/']
+eosfiles['NEW_CSC_222'] = ['/eos/uscms/store/user/jdimasva/NEW_CSC4_2/']
